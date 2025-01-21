@@ -1,7 +1,7 @@
 # Welcome! 😊
 
-I use GitHub mainly to upload data and code from my publications.\
-Please get in touch if you have any question.
+I use GitHub mainly to upload data and code from my papers.\
+Please get in touch if you have any questions.
 
 ## Education
 PhD title: Comparative Analyses of Cooperative Breeding in Birds\
